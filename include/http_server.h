@@ -1,5 +1,5 @@
 
-// Copyright by Enigma
+// Copyright by Margarita
 
 #ifndef INCLUDE_HTTP_SERVER_HPP_
 #define INCLUDE_HTTP_SERVER_HPP_

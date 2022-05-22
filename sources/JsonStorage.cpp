@@ -1,5 +1,4 @@
-// Copyright by Enigma
-
+// Copyright by Margarita
 #include <fstream>
 #include <sstream>
 #include "JsonStorage.hpp"
